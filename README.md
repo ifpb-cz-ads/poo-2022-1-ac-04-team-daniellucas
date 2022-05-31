@@ -13,3 +13,6 @@ Resposta: BMExercicio06.java
 - 40 -> 20 -> 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1
 
 Resposta: BMExercicio07.java
+
+## 10. Reescreva o programa anterior utilizando o comando do-while.
+Resposta: BMExercicio10.java
