@@ -27,6 +27,8 @@ public class BMExercicio07 {
 
             x = y;
         }
+
+        entrada.close();
     }
 
 }
